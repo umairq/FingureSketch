@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="activity_base_backed_up">Notebooks Quill sauvegardés.</string>
+    <string name="finger_sketch_deleted_page">Page %1$d / %2$d supprimée</string><string name="activity_base_automatic_saved">Saved current notebook.</string>
+
+    <string name="finger_sketch_no_other_pen_styles">Pas d\'autres styles de stylet dans l\'historique.</string>
+    <string name="finger_sketch_already_first_page">Déjà sur première page</string>
+    <string name="finger_sketch_already_first_tagged_page">Déjà sur première page balisée</string>
+    <string name="finger_sketch_showing_first_page">Affichage première page</string>
+    <string name="finger_sketch_showing_last_page">Affichage dernière page</string>
+    <string name="finger_sketch_showing_first_tagged_page">Affichage première page balisée</string>
+    <string name="finger_sketch_showing_last_tagged_page">Affichage dernière page balisée</string>
+    <string name="finger_sketch_showing_page">Affichage page %1$d / %2$d</string>
+    <string name="finger_sketch_inserted_at_end">Nouvelle page ajoutée à la fin</string>
+    <string name="finger_sketch_undo">Annuler</string>
+    <string name="finger_sketch_redo">Rétablir</string>
+    <string name="command_clear_page">Effacer page %1$d</string>
+    <string name="command_create_graphics">Ajouter trait au stylet sur page %1$d</string>
+    <string name="command_erase_graphics">Supprimer trait au stylet sur page %1$d</string>
+    <string name="command_page_insert">Ajouter numéro page %1$d </string>
+    <string name="command_page_erase">Supprimer numéro page %1$d </string>
+    <string name="tag_overlay_tags">Balises :</string>
+    <string name="tag_overlay_required">(demandées)</string>
+    <string name="tag_overlay_missing">(manquantes)</string>
+    <string name="tag_overlay_page_number">Page %1$d</string>
+
+</resources>

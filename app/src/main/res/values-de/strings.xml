@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="changelog_full_title">Änderungen</string>
+    <string name="changelog_title">Was ist neu</string>
+    <string name="app_name" translatable="true">Finger Sketch</string>
+
+    <string name="changelog_ok_button" translatable="true">OK</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_browser_manual" translatable="false">Manual</string>
+    <string name="help_browser_faq" translatable="false">FAQ</string>
+    <string name="help_browser_quit" translatable="false">Quit Help</string>
+    
+</resources>

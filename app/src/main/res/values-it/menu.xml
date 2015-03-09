@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_finger_sketch_pencil">Penna</string>
+    <string name="menu_finger_sketch_fountain_pen">Stilografica</string>
+    <string name="menu_finger_sketch_move">Move / Zoom</string>
+    <string name="menu_finger_sketch_eraser">Cancella</string>
+    <string name="menu_finger_sketch_undo">Annulla</string>
+    <string name="menu_finger_sketch_redo">Ripeti</string>
+    <string name="menu_finger_sketch_prev">Pagina precedente</string>
+    <string name="menu_finger_sketch_prev_condensed">Precedente</string>
+    <string name="menu_finger_sketch_next">Pagina successiva</string>
+    <string name="menu_finger_sketch_next_condensed">Successiva</string>
+    <string name="menu_finger_sketch_prev_pen">Penna precedente</string>
+    <string name="menu_finger_sketch_pen_history">Storico penna</string>
+    <string name="menu_finger_sketch_tools">Strumenti</string>
+    <string name="menu_finger_sketch_straight_line">Linea diritta</string>
+    <string name="menu_finger_sketch_straight_line_condensed">Linea</string>
+    <string name="menu_finger_sketch_image">Immagine</string>
+    <string name="menu_finger_sketch_text">Inserimento testo</string>
+    <string name="menu_finger_sketch_text_condensed">Testo</string>
+    <string name="menu_finger_sketch_color">Colore</string>
+    <string name="menu_finger_sketch_width">Spessore</string>
+    <string name="menu_finger_sketch_page_group">Pagina</string>
+    <string name="menu_finger_sketch_page_readonly">Solo lettura</string>
+    <string name="menu_finger_sketch_page_delete">Cancella</string>
+    <string name="menu_finger_sketch_page_clear">Elimina</string>
+    <string name="menu_finger_sketch_page_aspect">Rapporto d\'aspetto</string>
+    <string name="menu_finger_sketch_page_type">Foglio</string>
+    <string name="menu_finger_sketch_page_insert">Inserisci</string>
+    <string name="menu_finger_sketch_page_duplicate">Duplica</string>
+    <string name="menu_finger_sketch_page_next">Successivo</string>
+    <string name="menu_finger_sketch_page_prev">Precedente</string>
+    <string name="menu_finger_sketch_page_unfiltered_next">Successivo non processato</string>
+    <string name="menu_finger_sketch_page_unfiltered_prev">Precedente non processato</string>
+    <string name="menu_finger_sketch_page_last">Ultimo</string>
+    <string name="menu_finger_sketch_page_tag">Tags</string>
+    <string name="menu_finger_sketch_export">Esporta</string>
+    <string name="menu_finger_sketch_settings">Impostazioni</string>
+    <string name="menu_finger_sketch_thumbnails">Miniature pagina</string>
+    <string name="menu_finger_sketch_about">Informazioni su Quill</string>
+
+</resources>

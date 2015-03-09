@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_finger_sketch_pencil">Pinceau</string>
+    <string name="menu_finger_sketch_fountain_pen">Stylet fontaine</string>
+    <string name="menu_finger_sketch_move">Déplacer / Agrandir</string>
+    <string name="menu_finger_sketch_eraser">Effacer</string>
+    <string name="menu_finger_sketch_undo">Annuler</string>
+    <string name="menu_finger_sketch_redo">Rétablir</string>
+    <string name="menu_finger_sketch_prev">Page précédente</string>
+    <string name="menu_finger_sketch_prev_condensed">Préc</string>
+    <string name="menu_finger_sketch_next">Page suivante</string>
+    <string name="menu_finger_sketch_next_condensed">Suiv</string>
+    <string name="menu_finger_sketch_prev_pen">Stylo précédent</string>
+    <string name="menu_finger_sketch_pen_history">Historique stylo</string>
+    <string name="menu_finger_sketch_tools">Outils</string>
+    <string name="menu_finger_sketch_straight_line">Ligne droite</string>
+    <string name="menu_finger_sketch_straight_line_condensed">Ligne</string>
+    <string name="menu_finger_sketch_image">Image</string>
+    <string name="menu_finger_sketch_text">Saisir du texte</string>
+    <string name="menu_finger_sketch_text_condensed">Texte</string>
+    <string name="menu_finger_sketch_color">Couleur</string>
+    <string name="menu_finger_sketch_width">Epaisseur</string>
+    <string name="menu_finger_sketch_page_group">Page</string>
+    <string name="menu_finger_sketch_page_readonly">Lecture seule</string>
+    <string name="menu_finger_sketch_page_delete">Supprimer</string>
+    <string name="menu_finger_sketch_page_clear">Effacer</string>
+    <string name="menu_finger_sketch_page_aspect">Rapport aspect</string>
+    <string name="menu_finger_sketch_page_type">Papier</string>
+    <string name="menu_finger_sketch_page_insert">Ajouter</string>
+    <string name="menu_finger_sketch_page_duplicate">Dupliquer</string>
+    <string name="menu_finger_sketch_page_next">Suivant</string>
+    <string name="menu_finger_sketch_page_prev">Précédent</string>
+    <string name="menu_finger_sketch_page_unfiltered_next">Suivant non filtré</string>
+    <string name="menu_finger_sketch_page_unfiltered_prev">Précédent non filtré</string>
+    <string name="menu_finger_sketch_page_last">Dernier</string>
+    <string name="menu_finger_sketch_page_tag">Balises</string>
+    <string name="menu_finger_sketch_export">Exporter</string>
+    <string name="menu_finger_sketch_settings">Propriétés</string>
+    <string name="menu_finger_sketch_thumbnails">Signets page</string>
+    <string name="menu_finger_sketch_about">A propos de Quill</string>
+
+</resources>
